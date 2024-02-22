@@ -1,0 +1,23 @@
+# Archivos temporales
+*.swp
+*.swo
+*.swn
+
+# Directorios generados
+node_modules/
+dist/
+build/
+.cache/
+
+# Archivos de log
+*.log
+log/
+
+# Archivos de configuración locales
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependiendo del lenguaje y entorno, puedes añadir más reglas específicas.
